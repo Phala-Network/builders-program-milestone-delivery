@@ -2,7 +2,7 @@
 These are the guidelines to be followed for milestones submitted for evaluation.
 
 ## Submission
-Please submit all your milestones via PR to the [Phala Builder's Program Milestone Delivery repository](https://github.com/Phala-Network/builders-program-milestone-delivery).
+Please submit all your milestones via PR to the [Phala Builders Program Milestone Delivery repository](https://github.com/Phala-Network/builders-program-milestone-delivery).
 
 ## Invoice
 Each milestone needs to be reviewed and accepted, after approval you can submit your invoice through email that will be commented in your PR.
@@ -10,7 +10,7 @@ Each milestone needs to be reviewed and accepted, after approval you can submit 
 ## Content
 The submission should contain the following information:
 
-- **Name of the builder's program project**
+- **Name of the builders program project**
 - **Link to the open-source code/delivery**
 - **[License](#license)**
 - **[Documentation](#documentation)**
@@ -21,7 +21,7 @@ The submission should contain the following information:
 
 ## License
 In order to successfully receive milestone funding for your application it is necessary for the project to have open source code.
-We prefer Apache 2.0, but MIT or Unlicense are also acceptable. If your delivery comprises multiple repositories, make sure to include the license for each of them.
+We prefer Apache 2.0, but GNU GPL v3.0, MIT or Unlicense are also acceptable. If your delivery comprises multiple repositories, make sure to include the license for each of them.
 
 ## Documentation
 We value high-quality open source code, but even the most performant code is of little use if it lacks proper documentation.
@@ -56,7 +56,7 @@ Depending on the deliverable, this could include (but is not limited to)
 As with any quality software project, each logical code component should be testable.
 
 ## Milestone Deliverables
-Please provide a list of milestone deliverables. This list should closely reflect the list of deliverables agreed on in the Pull Request for the public **Builder's Program** application.
+Please provide a list of milestone deliverables. This list should closely reflect the list of deliverables agreed on in the Pull Request for the public **Builders Program** application.
 
 Each item in the list should include a link to the deliverable itself, e.g.:
 

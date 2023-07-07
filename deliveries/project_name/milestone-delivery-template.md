@@ -4,9 +4,9 @@
 >
 > Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with `>`, such as this one, can be removed.
 
-**The invoice has been sent out correctly for this milestone and the delivery is according to the official [milestone delivery guidelines](../support/milestone-deliverables-guidelines.md).**
+**The invoice has been sent out correctly for this milestone and the delivery is according to the official [milestone delivery guidelines](../../support/milestone-deliverables-guidelines.md).**
 
-* **Application Document:**, please provide a link to the application form or signed contract from the active builder's program project (TODO).
+* **Application Document:**, please provide a link to the application form or signed contract from the active builders program project (TODO).
 
 **Context** (optional)
 > Please provide a short paragraph or two connecting the deliverables in this milestone and describing their purpose.
