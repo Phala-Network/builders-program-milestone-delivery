@@ -2,7 +2,7 @@
 
 > ⚡ Only the GitHub account that submitted the application is allowed to submit milestones.
 
-**The invoice has been sent out correctly for this milestone and the delivery is according to the official [milestone delivery guidelines](../support/milestone-deliverables-guidelines.md).**
+**The invoice has been sent out correctly for this milestone and the delivery is according to the official [milestone delivery guidelines](../../support/milestone-deliverables-guidelines.md).**
 
 * **Application Document:**, please provide a link to the application form or signed contract from the active builders program project (TODO).
 
