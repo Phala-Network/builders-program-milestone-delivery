@@ -35,7 +35,7 @@ We have dedicated Discord channels for real-time support regarding active builde
 
 We also have a **#phat-contract channel for all builders program participants**. Head over to that channel to share your experience with other builders, ask builders program-related questions or simply hang out:
 
-- [Phala Discord](https://discord.gg/u7BTV6C9)
+- [Phala Discord](https://phala.com/discord)
 
 ## :information_source: License <!-- omit in toc -->
 
